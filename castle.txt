@@ -4,6 +4,8 @@
  | |  X  | |
  | |     | |
  This is the local copy
+Remote castle is better
+Conflict resolved!
  | |     | |
  | | /^\ | |
  |_|_|I|_|_|
